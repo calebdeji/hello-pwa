@@ -6,4 +6,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
+  margin: auto;
+  height: 100%;
+}
+
+body div {
+  height: 100%;
 }
